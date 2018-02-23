@@ -4,7 +4,7 @@
   * [关中水资源](guan-zhong-shui-zi-yuan.md)
 * [5引汉济渭工程工程技术问题](5yin-han-ji-wei-gong-cheng-gong-cheng-ji-zhu-wen-ti.md)
   * [5.1工程设计概况](5yin-han-ji-wei-gong-cheng-gong-cheng-ji-zhu-wen-ti/51gong-cheng-she-ji-gai-kuang.md)
-  * 5.2联合调度方案研究
+  * [5.2联合调度方案研究](5yin-han-ji-wei-gong-cheng-gong-cheng-ji-zhu-wen-ti/52lian-he-diao-du-fang-an-yan-jiu.md)
   * 5.3抽水方案的研究
   * 5.4发电自用方案研究
   * 5.5管理调度自动化研究
