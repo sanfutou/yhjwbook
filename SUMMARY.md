@@ -12,7 +12,7 @@
   * 5.7三河口水利枢纽技术问题研究
   * 5.8秦岭输水隧洞技术问题研究
 * [6引汉济渭工程施工规划](6yin-han-ji-wei-gong-cheng-shi-gong-gui-hua.md)
-  * 6.1施工总体布置研究
+  * [6.1施工总体布置研究](6yin-han-ji-wei-gong-cheng-shi-gong-gui-hua/61shi-gong-zong-ti-bu-zhi-yan-jiu.md)
   * 6.2总工期研究
   * 6.3三河口水利枢纽施工方案研究
   * 6.4黄金峡水利枢纽施工方案研究
