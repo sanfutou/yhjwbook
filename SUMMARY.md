@@ -19,4 +19,5 @@
   * [6.5秦岭输水隧洞施工方案研究](6yin-han-ji-wei-gong-cheng-shi-gong-gui-hua/65qin-ling-shu-shui-sui-dong-shi-gong-fang-an-yan-jiu.md)
 * [8引汉济渭工程经济政策研究](8yin-han-ji-wei-gong-cheng-jing-ji-zheng-ce-yan-jiu.md)
   * [8.2水价分析研究](8yin-han-ji-wei-gong-cheng-jing-ji-zheng-ce-yan-jiu/82shui-jia-fen-xi-yan-jiu.md)
+  * 8.1移民工作特点及政策研究
 
