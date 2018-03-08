@@ -30,5 +30,5 @@
   * [8.1移民工作特点及政策研究](8yin-han-ji-wei-gong-cheng-jing-ji-zheng-ce-yan-jiu/81yi-min-gong-zuo-te-dian-ji-zheng-ce-yan-jiu.md)
   * [8.2水价分析研究](8yin-han-ji-wei-gong-cheng-jing-ji-zheng-ce-yan-jiu/82shui-jia-fen-xi-yan-jiu.md)
 * [1陕西省水资源合理配置及南水北调问题](1shan-xi-sheng-shui-zi-yuan-he-li-pei-zhi-ji-nan-shui-bei-diao-wen-ti.md)
-  * 1.1陕西省水资源的情况和特点
+  * [1.1陕西省水资源的情况和特点](1shan-xi-sheng-shui-zi-yuan-he-li-pei-zhi-ji-nan-shui-bei-diao-wen-ti/11shan-xi-sheng-shui-zi-yuan-de-qing-kuang-he-te-dian.md)
 
