@@ -7,9 +7,10 @@
 （1）水库水温预测  
 
 引汉济渭调蓄工程黄金峡水库、三河口水库修建后，由于水库水深远远大于河道水深，使水库的水温结构在垂向分布和年内周期循环中均发生改变，进而对水库的化学和生物特性产生相应影响。水库水温的分布受水库所在地特性（气温、天然水温、流量和泥沙量）以及水库特性（调节性能、泄水方式和泥沙淤积）等因素有关，其分布形式按垂向温度结构形式，一般分成：混合型、分层型、过渡型等三种类型。对于水库水温结构的判别通常采用径流—库容比法，预测公式如下：  
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
-\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
+
+![](http://www.forkosh.com/mathtex.cgi? \alpha =\frac{W_{年}}{V_{总}}
+
+<img src="http://www.forkosh.com/mathtex.cgi? \Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}">
 
 式中：W年——多年平均入库年径流量，m3；  
 
