@@ -520,10 +520,16 @@ GIS开关室布置于电气副厂房568.04 m高程处。尺寸65×12×10m（长�
 
 电气中控室布置于电气副厂房568.04 m高程处，尺寸28×12.0×10.0m（长×宽×高）。  
 
-5.4.5.5方案比选  
+5.3.5.5方案比选  
 
 电站和泵站布置方案比较详见下表5.3.3-3。  
 
+![电站泵站布置方案比较表](/5yin-han-ji-wei-gong-cheng-gong-cheng-ji-zhu-wen-ti/img/2018-4-6-10-15-53.jpg  "表5.3-6") 
+  
+经综合分析比较，结合工程的实际地形地质条件，考虑工程在造价、节能以及运行管理，本次设计认为：“方案一”电站引水顺畅，泵站前池和电站尾水共用，投资较为节省，工程布置协调，运行管理较为方便，作为本次设计推荐方案。
 
-
+![电站泵站布置方案比较图](/5yin-han-ji-wei-gong-cheng-gong-cheng-ji-zhu-wen-ti/img/2018-4-6-10-19-19.jpg  "图5.3-1")
+![电站泵站布置方案比较图](/5yin-han-ji-wei-gong-cheng-gong-cheng-ji-zhu-wen-ti/img/2018-4-6-10-19-58.jpg  "图5.3-2")
+![电站泵站布置方案比较图](/5yin-han-ji-wei-gong-cheng-gong-cheng-ji-zhu-wen-ti/img/2018-4-6-10-21-20.jpg  "图5.3-3")
+![电站泵站布置方案比较图](/5yin-han-ji-wei-gong-cheng-gong-cheng-ji-zhu-wen-ti/img/2018-4-6-10-21-56.jpg  "图5.3-4")
 
