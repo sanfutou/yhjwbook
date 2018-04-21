@@ -49,5 +49,5 @@
 * [8引汉济渭工程经济政策研究](8yin-han-ji-wei-gong-cheng-jing-ji-zheng-ce-yan-jiu.md)
   * [8.1移民工作特点及政策研究](8yin-han-ji-wei-gong-cheng-jing-ji-zheng-ce-yan-jiu/81yi-min-gong-zuo-te-dian-ji-zheng-ce-yan-jiu.md)
   * [8.2水价分析研究](8yin-han-ji-wei-gong-cheng-jing-ji-zheng-ce-yan-jiu/82shui-jia-fen-xi-yan-jiu.md)
-  * 8.3资金筹措方案研究
+  * [8.3资金筹措方案研究](8yin-han-ji-wei-gong-cheng-jing-ji-zheng-ce-yan-jiu/83zi-jin-chou-cuo-fang-an-yan-jiu.md)
 
